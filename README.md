@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Fronted Project**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **React Js**
 
 - 📫 How to reach me **iitzmanjeet07@gmail.com**
 
